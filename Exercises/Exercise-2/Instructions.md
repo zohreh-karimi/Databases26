@@ -36,7 +36,7 @@ Underline nouns in the scenario, then list your candidate entities below:
 
 **Candidate Entities:**
 
-*
+*BOOK
 *
 *
 *
